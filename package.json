@@ -1,5 +1,5 @@
 {
-  "name": "@libreria/comunicacion",
+  "name": "@otrebla1212/comunicacion",
   "version": "0.1.0",
   "description": "Libreria de comunicacion",
   "main": "communication.js",
@@ -19,7 +19,4 @@
     "url": "https://github.com/otrebla121/intentolibreria/issues"
   },
   "homepage": "https://github.com/otrebla121/intentolibreria#readme"
-}
-{
-  "type": "module"
 }
